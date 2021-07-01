@@ -8,7 +8,7 @@ I am the creator and program manager for the project Fitzhi and as well a fullst
 <br>
 <br>
 ## Expertise
-<img align="left" alt="java" src="https://img.shields.io/badge/java%20-#darkblue.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img align="left" alt="java" src="https://img.shields.io/badge/java%20-darkblue.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" alt="typescript" src="https://img.shields.io/badge/typescript%20-green.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-darkgreen.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
