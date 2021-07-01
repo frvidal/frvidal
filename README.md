@@ -10,7 +10,7 @@ I am the creator and program manager for the project Fitzhi and as well a fullst
 ## Expertise
 <img align="left" alt="java" src="https://img.shields.io/badge/java%20-lightgrey.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" alt="typescript" src="https://img.shields.io/badge/typescript%20-green.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-darkgreen.svg?&style=for-the-badge&logo=js&logoColor=white" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-darkgreen.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <img align="left" alt="angular" src="https://img.shields.io/badge/angular%20-%2320232a.svg?&style=for-the-badge&logo=angular&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
