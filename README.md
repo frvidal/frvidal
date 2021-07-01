@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 I am the creator and program manager for the project Fitzhi and as well a fullstack software engineer in Bordeaux (France) 
 
 ## Connect with me
