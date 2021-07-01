@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am the creator and program manager for the project Fitzhi and as well a fullstack software engineer in Bordeaux (France) 
+
 
 <!--
 **frvidal/frvidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
